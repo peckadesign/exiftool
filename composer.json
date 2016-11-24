@@ -12,5 +12,5 @@
         }
     ],
     "bin": ["exiftool"],
-    "require": {},
+    "require": {}
 }
